@@ -1,6 +1,6 @@
 [project]
 name = "Exam2excel_converter"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="akakshuki", email="le.dinhhoang.1207@gmail.com" },
 ]

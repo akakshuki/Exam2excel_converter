@@ -2,7 +2,8 @@ LICENSE
 README.md
 pyproject.toml
 src/__init__.py
-src/main.py
+src/exam2excel_converter.py
+src/test.py
 src/Exam2excel_converter.egg-info/PKG-INFO
 src/Exam2excel_converter.egg-info/SOURCES.txt
 src/Exam2excel_converter.egg-info/dependency_links.txt
