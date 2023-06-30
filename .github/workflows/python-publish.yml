@@ -17,9 +17,8 @@ permissions:
 
 jobs:
   deploy:
-
     runs-on: ubuntu-latest
-
+    environment: Exam2excel_converter
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python
